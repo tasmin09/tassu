@@ -5,6 +5,18 @@ const Header = () => {
       <h2>ahi</h2>
       <p>hi</p>
       <p>hi</p>
+      <h1>This is Header</h1>
+      <h2>ahi</h2>
+      <p>hi</p>
+      <p>hi</p>
+      <h1>This is Header</h1>
+      <h2>ahi</h2>
+      <p>hi</p>
+      <p>hi</p>
+      <h1>This is Header</h1>
+      <h2>ahi</h2>
+      <p>hi</p>
+      <p>hi</p>
     </div>
   );
 };
